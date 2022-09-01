@@ -20,7 +20,7 @@ Software: Python 3.6.1, Visual Studio Code 1.70.2
 
 ## Audit Summary 
 
-Note: This is the automated summary output from our code in PyPoll.py
+Note: This is the automated summary output from PyPoll.py
 
 ![election_analysis](resources/election_analysis.png)
 
