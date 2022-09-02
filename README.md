@@ -37,7 +37,7 @@ Which candidate won the election, what was their vote count, and what was their 
    
 Output when PyPoll_Challenge.py run from Terminal: 
 
-![election_results](https://github.com/krisnagoda/Election_Analysis/blob/4179bfce14a51a27ee6843306c1549e5bd5d1904/resources/election_results_module_3_challenge.png)
+![election_results](https://github.com/krisnagoda/Election_Analysis/blob/eff5bc494ab6f47c7d8c8b8c24d97029c8cf3aa8/resources/election_results_module_3_challenge.png)
 
 Data wrote to .txt file when PyPoll_Challenge.py run from Terminal:
 
