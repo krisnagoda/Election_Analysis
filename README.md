@@ -41,7 +41,7 @@ Screenshot of Terminal Output:
 
 Screenshot of election_analysis.txt:
 
-![election_results](https://github.com/krisnagoda/Election_Analysis/blob/27f01909e19283829ea106ff6e473c35b30ca416/resources/election_results_module_3_challenge_notepad.png))
+![election_results](https://github.com/krisnagoda/Election_Analysis/blob/27f01909e19283829ea106ff6e473c35b30ca416/resources/election_results_module_3_challenge_notepad.png)
 
 ## Election Audit Summary
 
