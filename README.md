@@ -45,7 +45,7 @@ Data wrote to .txt file when PyPoll_Challenge.py run from Terminal:
 
 ## Election Audit Summary
 
-The new code is ready to be reused across other local, congressional, and senatorial districts. With the  input data formatting standardization we implemented, we can simply update the file path in PyPoll_Challenge.py and rerun the code to produce comparable output for any election. 
+Our new code is ready to be reused across other local, congressional, and senatorial districts. With the input data format standardization we implemented, we can simply update the file path in PyPoll_Challenge.py and rerun the code to produce a comparable output for any election. 
    
 ## Resources
 
