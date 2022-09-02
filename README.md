@@ -35,11 +35,11 @@ Which candidate won the election, what was their vote count, and what was their 
    Winning Percentage: 73.8%
    ```
    
-Output when PyPoll_Challenge.py run from Terminal: 
+Screenshot of Terminal Output: 
 
 ![election_results](https://github.com/krisnagoda/Election_Analysis/blob/eff5bc494ab6f47c7d8c8b8c24d97029c8cf3aa8/resources/election_results_module_3_challenge.png)
 
-Data wrote to .txt file when PyPoll_Challenge.py run from Terminal:
+Screenshot of election_analysis.txt:
 
 ![election_results](https://github.com/krisnagoda/Election_Analysis/blob/27f01909e19283829ea106ff6e473c35b30ca416/resources/election_results_module_3_challenge_notepad.png))
 
