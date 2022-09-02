@@ -1,6 +1,6 @@
 # Election Analysis
 
-## Overview of Election Audit
+## Overview
 
 Preform audit of the election data to verify results for the Colorado Board of Elections. Develop code that can be reused across other local, congressional, and senatorial districts. 
 
