@@ -45,7 +45,7 @@ Screenshot of election_analysis.txt:
 
 ## Election Audit Summary
 
-Our new code is ready to be reused across other local, congressional, and senatorial districts. With the input data format standardization we implemented, we can simply update the file path in PyPoll_Challenge.py and rerun the code to produce a comparable output for any election. 
+Our new code is ready to be reused across other local, congressional, and senatorial districts. With the input data format standardization we implemented, we can simply update the data source path in PyPoll_Challenge.py and rerun the code to produce a comparable output for any election. 
    
 ## Resources
 
