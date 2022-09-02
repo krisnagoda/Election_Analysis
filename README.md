@@ -1,10 +1,10 @@
 # Election Analysis
 
-## Overview of Election Audit:
+## Overview of Election Audit
 
 Preform audit of the election data to verify results for the Colorado Board of Elections. Develop code that can be reused across other local, congressional, and senatorial districts. 
 
-## Election Audit Results:
+## Election Audit Results
 
 How many votes were cast in this congressional election?
    ```
@@ -43,7 +43,9 @@ Data wrote to .txt file when PyPoll_Challenge.py run from Terminal:
 
 ![election_results](https://github.com/krisnagoda/Election_Analysis/blob/27f01909e19283829ea106ff6e473c35b30ca416/resources/election_results_module_3_challenge_notepad.png))
 
+## Election Audit Summary
 
+The new code is ready to be reused across other local, congressional, and senatorial districts. With the  input data formatting standardization we implemented, we can simply update the file path in PyPoll_Challenge.py and rerun the code to produce comparable output for any election. 
    
 ## Resources
 
